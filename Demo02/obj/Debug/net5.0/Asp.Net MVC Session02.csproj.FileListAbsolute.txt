@@ -1,0 +1,26 @@
+C:\Users\ZONE\source\repos\Asp.Net MVC Session02\Asp.Net MVC Session02\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ZONE\source\repos\Asp.Net MVC Session02\Asp.Net MVC Session02\bin\Debug\net5.0\appsettings.json
+C:\Users\ZONE\source\repos\Asp.Net MVC Session02\Asp.Net MVC Session02\bin\Debug\net5.0\Asp.Net MVC Session02.exe
+C:\Users\ZONE\source\repos\Asp.Net MVC Session02\Asp.Net MVC Session02\bin\Debug\net5.0\Asp.Net MVC Session02.deps.json
+C:\Users\ZONE\source\repos\Asp.Net MVC Session02\Asp.Net MVC Session02\bin\Debug\net5.0\Asp.Net MVC Session02.runtimeconfig.json
+C:\Users\ZONE\source\repos\Asp.Net MVC Session02\Asp.Net MVC Session02\bin\Debug\net5.0\Asp.Net MVC Session02.runtimeconfig.dev.json
+C:\Users\ZONE\source\repos\Asp.Net MVC Session02\Asp.Net MVC Session02\bin\Debug\net5.0\Asp.Net MVC Session02.dll
+C:\Users\ZONE\source\repos\Asp.Net MVC Session02\Asp.Net MVC Session02\bin\Debug\net5.0\Asp.Net MVC Session02.pdb
+C:\Users\ZONE\source\repos\Asp.Net MVC Session02\Asp.Net MVC Session02\obj\Debug\net5.0\Asp.Net MVC Session02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZONE\source\repos\Asp.Net MVC Session02\Asp.Net MVC Session02\obj\Debug\net5.0\Asp.Net MVC Session02.AssemblyInfoInputs.cache
+C:\Users\ZONE\source\repos\Asp.Net MVC Session02\Asp.Net MVC Session02\obj\Debug\net5.0\Asp.Net MVC Session02.AssemblyInfo.cs
+C:\Users\ZONE\source\repos\Asp.Net MVC Session02\Asp.Net MVC Session02\obj\Debug\net5.0\Asp.Net MVC Session02.csproj.CoreCompileInputs.cache
+C:\Users\ZONE\source\repos\Asp.Net MVC Session02\Asp.Net MVC Session02\obj\Debug\net5.0\Asp.Net MVC Session02.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ZONE\source\repos\Asp.Net MVC Session02\Asp.Net MVC Session02\obj\Debug\net5.0\Asp.Net MVC Session02.RazorTargetAssemblyInfo.cache
+C:\Users\ZONE\source\repos\Asp.Net MVC Session02\Asp.Net MVC Session02\obj\Debug\net5.0\scopedcss\bundle\Asp.Net MVC Session02.styles.css
+C:\Users\ZONE\source\repos\Asp.Net MVC Session02\Asp.Net MVC Session02\obj\Debug\net5.0\staticwebassets\Asp.Net MVC Session02.StaticWebAssets.Manifest.cache
+C:\Users\ZONE\source\repos\Asp.Net MVC Session02\Asp.Net MVC Session02\obj\Debug\net5.0\staticwebassets\Asp.Net MVC Session02.StaticWebAssets.Pack.cache
+C:\Users\ZONE\source\repos\Asp.Net MVC Session02\Asp.Net MVC Session02\obj\Debug\net5.0\staticwebassets\msbuild.Asp.Net MVC Session02.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ZONE\source\repos\Asp.Net MVC Session02\Asp.Net MVC Session02\obj\Debug\net5.0\staticwebassets\msbuild.build.Asp.Net MVC Session02.props
+C:\Users\ZONE\source\repos\Asp.Net MVC Session02\Asp.Net MVC Session02\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Asp.Net MVC Session02.props
+C:\Users\ZONE\source\repos\Asp.Net MVC Session02\Asp.Net MVC Session02\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Asp.Net MVC Session02.props
+C:\Users\ZONE\source\repos\Asp.Net MVC Session02\Asp.Net MVC Session02\obj\Debug\net5.0\Asp.Net MVC Session02.dll
+C:\Users\ZONE\source\repos\Asp.Net MVC Session02\Asp.Net MVC Session02\obj\Debug\net5.0\refint\Asp.Net MVC Session02.dll
+C:\Users\ZONE\source\repos\Asp.Net MVC Session02\Asp.Net MVC Session02\obj\Debug\net5.0\Asp.Net MVC Session02.pdb
+C:\Users\ZONE\source\repos\Asp.Net MVC Session02\Asp.Net MVC Session02\obj\Debug\net5.0\Asp.Net MVC Session02.genruntimeconfig.cache
+C:\Users\ZONE\source\repos\Asp.Net MVC Session02\Asp.Net MVC Session02\obj\Debug\net5.0\ref\Asp.Net MVC Session02.dll

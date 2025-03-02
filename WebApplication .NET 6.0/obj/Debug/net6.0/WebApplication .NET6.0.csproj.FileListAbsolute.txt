@@ -1,0 +1,29 @@
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication2 V6.0\bin\Debug\net6.0\appsettings.Development.json
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication2 V6.0\bin\Debug\net6.0\appsettings.json
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication2 V6.0\bin\Debug\net6.0\WebApplication .NET6.0.staticwebassets.endpoints.json
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication2 V6.0\bin\Debug\net6.0\WebApplication .NET6.0.exe
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication2 V6.0\bin\Debug\net6.0\WebApplication .NET6.0.deps.json
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication2 V6.0\bin\Debug\net6.0\WebApplication .NET6.0.runtimeconfig.json
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication2 V6.0\bin\Debug\net6.0\WebApplication .NET6.0.dll
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication2 V6.0\bin\Debug\net6.0\WebApplication .NET6.0.pdb
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication2 V6.0\obj\Debug\net6.0\WebApplication .NET6.0.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication2 V6.0\obj\Debug\net6.0\WebApplication .NET6.0.AssemblyInfoInputs.cache
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication2 V6.0\obj\Debug\net6.0\WebApplication .NET6.0.AssemblyInfo.cs
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication2 V6.0\obj\Debug\net6.0\WebApplication .NET6.0.csproj.CoreCompileInputs.cache
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication2 V6.0\obj\Debug\net6.0\WebApplication .NET6.0.MvcApplicationPartsAssemblyInfo.cache
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication2 V6.0\obj\Debug\net6.0\scopedcss\bundle\WebApplication .NET6.0.styles.css
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication2 V6.0\obj\Debug\net6.0\staticwebassets.build.json
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication2 V6.0\obj\Debug\net6.0\staticwebassets.development.json
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication2 V6.0\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication2 V6.0\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication .NET6.0.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication2 V6.0\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication .NET6.0.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication2 V6.0\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication .NET6.0.props
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication2 V6.0\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication .NET6.0.props
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication2 V6.0\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication .NET6.0.props
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication2 V6.0\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication2 V6.0\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication2 V6.0\obj\Debug\net6.0\WebApplication .NET6.0.dll
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication2 V6.0\obj\Debug\net6.0\refint\WebApplication .NET6.0.dll
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication2 V6.0\obj\Debug\net6.0\WebApplication .NET6.0.pdb
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication2 V6.0\obj\Debug\net6.0\WebApplication .NET6.0.genruntimeconfig.cache
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication2 V6.0\obj\Debug\net6.0\ref\WebApplication .NET6.0.dll

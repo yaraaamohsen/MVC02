@@ -1,0 +1,29 @@
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication .NET 7.0\bin\Debug\net7.0\appsettings.Development.json
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication .NET 7.0\bin\Debug\net7.0\appsettings.json
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication .NET 7.0\bin\Debug\net7.0\WebApplication .NET7.0.staticwebassets.endpoints.json
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication .NET 7.0\bin\Debug\net7.0\WebApplication .NET7.0.exe
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication .NET 7.0\bin\Debug\net7.0\WebApplication .NET7.0.deps.json
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication .NET 7.0\bin\Debug\net7.0\WebApplication .NET7.0.runtimeconfig.json
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication .NET 7.0\bin\Debug\net7.0\WebApplication .NET7.0.dll
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication .NET 7.0\bin\Debug\net7.0\WebApplication .NET7.0.pdb
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication .NET 7.0\obj\Debug\net7.0\WebApplication .NET7.0.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication .NET 7.0\obj\Debug\net7.0\WebApplication .NET7.0.AssemblyInfoInputs.cache
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication .NET 7.0\obj\Debug\net7.0\WebApplication .NET7.0.AssemblyInfo.cs
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication .NET 7.0\obj\Debug\net7.0\WebApplication .NET7.0.csproj.CoreCompileInputs.cache
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication .NET 7.0\obj\Debug\net7.0\WebApplication .NET7.0.MvcApplicationPartsAssemblyInfo.cache
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication .NET 7.0\obj\Debug\net7.0\scopedcss\bundle\WebApplication .NET7.0.styles.css
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication .NET 7.0\obj\Debug\net7.0\staticwebassets.build.json
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication .NET 7.0\obj\Debug\net7.0\staticwebassets.development.json
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication .NET 7.0\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication .NET 7.0\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication .NET7.0.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication .NET 7.0\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication .NET7.0.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication .NET 7.0\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication .NET7.0.props
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication .NET 7.0\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication .NET7.0.props
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication .NET 7.0\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication .NET7.0.props
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication .NET 7.0\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication .NET 7.0\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication .NET 7.0\obj\Debug\net7.0\WebApplication .NET7.0.dll
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication .NET 7.0\obj\Debug\net7.0\refint\WebApplication .NET7.0.dll
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication .NET 7.0\obj\Debug\net7.0\WebApplication .NET7.0.pdb
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication .NET 7.0\obj\Debug\net7.0\WebApplication .NET7.0.genruntimeconfig.cache
+D:\Backend Development\ASP.NET MVC\Session02\WebApplication .NET 7.0\obj\Debug\net7.0\ref\WebApplication .NET7.0.dll

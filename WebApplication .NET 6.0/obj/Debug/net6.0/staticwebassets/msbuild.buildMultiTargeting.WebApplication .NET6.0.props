@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebApplication .NET6.0.props" />
+</Project>
