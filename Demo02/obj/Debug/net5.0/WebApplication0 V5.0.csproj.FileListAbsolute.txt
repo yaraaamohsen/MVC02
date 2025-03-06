@@ -1,5 +1,0 @@
-D:\Backend Development\ASP.NET MVC\Session02\Demo02\obj\Debug\net5.0\WebApplication0 V5.0.GeneratedMSBuildEditorConfig.editorconfig
-D:\Backend Development\ASP.NET MVC\Session02\Demo02\obj\Debug\net5.0\WebApplication0 V5.0.AssemblyInfoInputs.cache
-D:\Backend Development\ASP.NET MVC\Session02\Demo02\obj\Debug\net5.0\WebApplication0 V5.0.AssemblyInfo.cs
-D:\Backend Development\ASP.NET MVC\Session02\Demo02\obj\Debug\net5.0\WebApplication0 V5.0.csproj.CoreCompileInputs.cache
-D:\Backend Development\ASP.NET MVC\Session02\Demo02\obj\Debug\net5.0\WebApplication0 V5.0.MvcApplicationPartsAssemblyInfo.cache
