@@ -1,4 +1,4 @@
-namespace WebApplication.NET9._0
+namespace WebApplication_.NET_9._0
 {
     public class Program
     {

@@ -17,9 +17,11 @@ namespace Demo02
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews(); // Register Built In MVC Services
-            services.AddControllers();          // Register Built In Web APIS Services
-            services.AddRazorPages();           // Register Built In Razor Pages
+            services.AddControllers(); // Register Built In Web APIs Services   
+            services.AddRazorPages();
+            services.AddMvc();
         }
+
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
